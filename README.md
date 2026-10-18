@@ -1,2 +1,5 @@
-# Python-Dice-Roller
-A simple command-line dice roller in Python.
+# Dice Roller
+
+Roll one or more six-sided dice and see the total.
+
+Run with `python main.py`.
